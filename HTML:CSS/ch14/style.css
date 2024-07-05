@@ -24,3 +24,25 @@ header {
 main {
     display: flex;
 }
+nav {
+    width: 100px;
+    height: 200px;
+    background-color: #c70039;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+article {
+    width: 200px;
+    height: 200px;
+    background-color: #ffc300;
+    border-radius: 10px;
+}
+
+/*푸터 태그 스타일링*/
+footer {
+    width: 310px;
+    height: 50px;
+    background-color: #900c3f;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
